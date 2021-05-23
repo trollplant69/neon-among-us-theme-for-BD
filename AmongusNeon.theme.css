@@ -84,19 +84,3 @@ the "CSS rules" it gives you. After that, just set the fonts below! */
 	--dplus-bgc-server-button-hover:  hsla(181, 85%, 46%, 0.74);
 }
 
-.theme-light {
---dplus-bgc-ui-base: hsla(181, 72%, 15%, 0.74);
-	--dplus-bgc-ui-base: hsla(181, 72%, 15%, 0.74);
-	--dplus-bgc-ui-base-hover:hsla(181, 72%, 15%, 0.74);
-	--dplus-bgc-ui-card:hsla(181, 72%, 15%, 0.74);
-	--dplus-bgc-ui-card-hover: hsla(181, 72%, 15%, 0.74);
-	--dplus-bgc-chatmsg: hsla(319, 89%, 11%, 0.74);
-	--dplus-bgc-chatmsg-hover: hsla(318, 69%, 19%, 0.74);
-	--dplus-bgc-popout:  hsla(318, 85%, 46%, 0.74);
-	--dplus-bgc-button: hsla(181, 72%, 15%, 0.74);
-	--dplus-bgc-button-hover: hsla(181, 85%, 46%, 0.74);
-	--dplus-bgc-server-button: hsla(181, 85%, 46%, 0.74);
-	--dplus-bgc-server-button-hover:  hsla(181, 85%, 46%, 0.74);
-}
-
-
