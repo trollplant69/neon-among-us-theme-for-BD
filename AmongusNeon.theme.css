@@ -1,7 +1,7 @@
 /**
  * @name  Neon among us
  * @author trollplant
- * @version 1.0.0
+ * @version 1.0.1
 * @description a cool neon theme made with discord+ https://betterdiscord.app/theme/Discord%2B
 */
 
@@ -24,16 +24,18 @@ the "CSS rules" it gives you. After that, just set the fonts below! */
 /* Background image. Falls back to accent color if invalid.
    To use an image on your computer, send it anywhere on Discord,
    then right-click and Copy Link, then paste it between the ()'s'. */
---dplus-background: url(https://i.imgur.com/YwAqvXw.png
-);
+--dplus-background: url(https://i.imgur.com/YwAqvXw.png)
+					/* default:	80vh			(height of the settings modal, px/vh)															*/
+
+;
 
 /* Accent color, used to decorate the UI with colors. */
 --dplus-accent-ui: #cb2c96;
 
 /* Fonts */
---dplus-font-ui: 'Poppins';
---dplus-font-body: 'Roboto';
---dplus-font-header: 'Righteous';
+--dplus-font-ui:  'Noto Sans JP';
+--dplus-font-body:  'Noto Sans JP';
+--dplus-font-header:  'Noto Sans JP';
 
 /* Round corner sizes, measured in pixel radius
    Set avatar/server to 50% for circles
@@ -95,3 +97,5 @@ the "CSS rules" it gives you. After that, just set the fonts below! */
 	--dplus-bgc-server-button: hsla(181, 85%, 46%, 0.74);
 	--dplus-bgc-server-button-hover:  hsla(181, 85%, 46%, 0.74);
 }
+
+
