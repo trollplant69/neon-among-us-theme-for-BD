@@ -86,6 +86,7 @@ the "CSS rules" it gives you. After that, just set the fonts below! */
 
 .theme-light {
 --dplus-bgc-ui-base: hsla(181, 72%, 15%, 0.74);
+	--dplus-bgc-ui-base: hsla(181, 72%, 15%, 0.74);
 	--dplus-bgc-ui-base-hover:hsla(181, 72%, 15%, 0.74);
 	--dplus-bgc-ui-card:hsla(181, 72%, 15%, 0.74);
 	--dplus-bgc-ui-card-hover: hsla(181, 72%, 15%, 0.74);
